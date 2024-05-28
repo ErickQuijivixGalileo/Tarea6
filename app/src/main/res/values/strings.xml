@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea5</string>
+    <string name="selecciona_raza">Selecciona la raza</string>
+    <string-array name="razas">
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Ave</item>
+    </string-array>
+</resources>
